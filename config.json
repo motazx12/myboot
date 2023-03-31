@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
-	"port": "25565",
-	"name": "afkbot1",
+	"ip":"testmo.aternos.me.ip",
+	"port": "15359",
+	"name": "my bot with motax",
 	"auto-night-skip":"true"
 }
